@@ -1,0 +1,36 @@
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.dll.config
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\DAL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\EL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\DAL.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\EL.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\2.BLL.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\BLL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\BLL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.dll.config
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\DAL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\EL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\DAL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\DAL.dll.config
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\EL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\2.BLL.csprojAssemblyReference.cache
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\2.BLL.csproj.CoreCompileInputs.cache
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\2.BLL.csproj.CopyComplete
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\BLL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\BLL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.dll.config
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\DAL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\EL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\DAL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\DAL.dll.config
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\EL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\2.BLL.csprojAssemblyReference.cache
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\2.BLL.csproj.CoreCompileInputs.cache
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\2.BLL.csproj.CopyComplete
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\BLL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\BLL.pdb

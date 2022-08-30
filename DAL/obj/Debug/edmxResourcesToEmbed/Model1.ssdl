@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="simaModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="simaModelStoreContainer">
+    <EntitySet Name="artiesc" EntityType="simaModel.Store.artiesc" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="artiesc">
+    <Key>
+      <PropertyRef Name="ean" />
+    </Key>
+    <Property Name="ean" Type="numeric" Nullable="false" Precision="15" />
+    <Property Name="desc_art" Type="varchar" MaxLength="40" />
+    <Property Name="estilo" Type="varchar" Nullable="false" MaxLength="16" />
+    <Property Name="sku" Type="numeric" Precision="10" />
+    <Property Name="precio_vta" Type="numeric" Precision="10" />
+    <Property Name="departamento" Type="varchar" MaxLength="5" />
+    <Property Name="cod_color" Type="numeric" Nullable="false" Precision="5" />
+    <Property Name="cod_talla" Type="numeric" Nullable="false" Precision="5" />
+    <Property Name="temporada" Type="numeric" Precision="3" />
+  </EntityType>
+</Schema>

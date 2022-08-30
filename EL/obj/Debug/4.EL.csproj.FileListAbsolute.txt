@@ -1,0 +1,17 @@
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\EL\bin\Debug\EL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\EL\bin\Debug\EL.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\EL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\EL.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\4.EL.csprojResolveAssemblyReference.cache
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\bin\Debug\EL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\bin\Debug\EL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\4.EL.csproj.CoreCompileInputs.cache
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\EL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\EL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\4.EL.csprojAssemblyReference.cache
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\bin\Debug\EL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\bin\Debug\EL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\4.EL.csproj.CoreCompileInputs.cache
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\EL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\EL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\4.EL.csprojAssemblyReference.cache

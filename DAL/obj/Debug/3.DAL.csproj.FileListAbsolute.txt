@@ -1,0 +1,34 @@
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\DAL.dll.config
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\DAL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\DAL.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EL.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\3.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\DAL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\DAL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\DAL.dll.config
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\DAL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\DAL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EntityFramework.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EntityFramework.xml
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\3.DAL.csprojAssemblyReference.cache
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\3.DAL.csproj.CoreCompileInputs.cache
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\3.DAL.csproj.CopyComplete
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\DAL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\DAL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\DAL.dll.config
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\DAL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\DAL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EntityFramework.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\bin\Debug\EntityFramework.xml
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\3.DAL.csprojAssemblyReference.cache
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\3.DAL.csproj.CoreCompileInputs.cache
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\3.DAL.csproj.CopyComplete
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\DAL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\DAL\obj\Debug\DAL.pdb

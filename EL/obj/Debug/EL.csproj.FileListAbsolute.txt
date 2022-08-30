@@ -1,0 +1,5 @@
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\EL\bin\Debug\EL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\EL\bin\Debug\EL.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\EL.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\EL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\EL\obj\Debug\EL.pdb

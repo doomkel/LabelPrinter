@@ -1,0 +1,11 @@
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\BLL.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\BLL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\obj\Debug\BLL.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\DAL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\EL.dll
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\DAL.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\EL.pdb
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\EntityFramework.dll
+c:\users\daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\BLL\bin\Debug\EntityFramework.xml

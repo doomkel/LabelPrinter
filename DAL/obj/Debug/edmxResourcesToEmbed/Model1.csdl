@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="simaModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="simaEntities" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="artiesc" EntityType="simaModel.artiesc" />
+  </EntityContainer>
+  <EntityType Name="artiesc">
+    <Key>
+      <PropertyRef Name="ean" />
+    </Key>
+    <Property Name="ean" Type="Decimal" Nullable="false" Precision="15" Scale="0" />
+    <Property Name="desc_art" Type="String" MaxLength="40" Unicode="false" FixedLength="false" />
+    <Property Name="estilo" Type="String" Nullable="false" MaxLength="16" Unicode="false" FixedLength="false" />
+    <Property Name="sku" Type="Decimal" Precision="10" Scale="0" />
+    <Property Name="precio_vta" Type="Decimal" Precision="10" Scale="0" />
+    <Property Name="departamento" Type="String" MaxLength="5" Unicode="false" FixedLength="false" />
+    <Property Name="cod_color" Type="Decimal" Nullable="false" Precision="5" Scale="0" />
+    <Property Name="cod_talla" Type="Decimal" Nullable="false" Precision="5" Scale="0" />
+    <Property Name="temporada" Type="Decimal" Precision="3" Scale="0" />
+  </EntityType>
+</Schema>

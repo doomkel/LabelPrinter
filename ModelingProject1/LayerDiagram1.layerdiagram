@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/SimpleShapesModel" dslVersion="1.0.0.0" Id="547f0a42-f69b-4f0c-b828-91261f7b968c" xmlns="http://schemas.microsoft.com/VisualStudio/TeamArchitect/LayerDesigner">
+  <layers>
+    <layer Id="e9d4da53-960d-47ea-9795-568276ab1636" name="1.PISYS_Etiquetas">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="a6a452e8-6b8d-4aff-89c2-f5a8cc63d11b" direction="Forward">
+          <layerMoniker Id="8a14bac8-2b17-46ed-b93a-7e77f6bfae80" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <references>
+        <reference Id="b21a8267-57d2-4568-8b55-d960c672ce56" name="1.PISYS_Etiquetas">
+          <ArtifactNode Label="1.PISYS_Etiquetas" Category="CodeSchema_Project" Id="(Assembly=&quot;$(DesktopUri)/pisys/proyectos/GrupoPonan/PISYS_Etiquetas/PISYS_Etiquetas/1.PISYS_Etiquetas.csproj&quot;)">
+            <Category Ref="File" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=PISYS_Etiquetas)" Label="PISYS_Etiquetas.exe" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.exe" />
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="8a14bac8-2b17-46ed-b93a-7e77f6bfae80" name="2.BLL">
+      <dependencyToLayers>
+        <dependencyFromLayerToLayer Id="407fb0c5-cb02-46f9-891c-3befbd289adc" direction="Forward">
+          <layerMoniker Id="0ce2016a-b81b-429f-a296-c5834e4d42fd" />
+        </dependencyFromLayerToLayer>
+      </dependencyToLayers>
+      <references>
+        <reference Id="a9bf0847-18de-4841-aa95-010681720fc0" name="2.BLL">
+          <ArtifactNode Label="2.BLL" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/visual studio 2012/Projects/LabelPrinterDiagramaCapas/BLL/2.BLL.csproj&quot;)">
+            <Category Ref="File" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=BLL)" Label="BLL.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+    <layer Id="0ce2016a-b81b-429f-a296-c5834e4d42fd" name="3.DAL">
+      <references>
+        <reference Id="df33e8ba-f597-41d9-aaab-d92960c64717" name="3.DAL">
+          <ArtifactNode Label="3.DAL" Category="CodeSchema_Project" Id="(Assembly=&quot;$(PersonalUri)/visual studio 2012/Projects/LabelPrinterDiagramaCapas/DAL/3.DAL.csproj&quot;)">
+            <Category Ref="File" />
+          </ArtifactNode>
+          <ExpandedNode Id="(Assembly=DAL)" Label="DAL.dll" Category="CodeSchema_Assembly">
+            <Category Ref="FileSystem.Category.FileOfType.dll" />
+            <LinkCategory Ref="Produces" />
+            <LinkCategory Ref="Represents" />
+          </ExpandedNode>
+        </reference>
+      </references>
+    </layer>
+  </layers>
+</layerModel>

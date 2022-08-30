@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="simaModelStoreContainer" CdmEntityContainer="simaEntities">
+    <EntitySetMapping Name="artiesc">
+      <EntityTypeMapping TypeName="simaModel.artiesc">
+        <MappingFragment StoreEntitySet="artiesc">
+          <ScalarProperty Name="ean" ColumnName="ean" />
+          <ScalarProperty Name="desc_art" ColumnName="desc_art" />
+          <ScalarProperty Name="estilo" ColumnName="estilo" />
+          <ScalarProperty Name="sku" ColumnName="sku" />
+          <ScalarProperty Name="precio_vta" ColumnName="precio_vta" />
+          <ScalarProperty Name="departamento" ColumnName="departamento" />
+          <ScalarProperty Name="cod_color" ColumnName="cod_color" />
+          <ScalarProperty Name="cod_talla" ColumnName="cod_talla" />
+          <ScalarProperty Name="temporada" ColumnName="temporada" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

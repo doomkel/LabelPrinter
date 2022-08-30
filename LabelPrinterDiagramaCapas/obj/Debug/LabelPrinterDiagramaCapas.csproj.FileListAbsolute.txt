@@ -1,0 +1,65 @@
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.exe.config
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.exe.manifest
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.application
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.exe
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\BLL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\DAL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\EL.dll
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\BLL.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\DAL.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\EL.pdb
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.Form1.resources
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.Properties.Resources.resources
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.csproj.GenerateResource.Cache
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.exe.manifest
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.application
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.exe
+C:\Users\Daniel\documents\visual studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.csprojAssemblyReference.cache
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.Form1.resources
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.Properties.Resources.resources
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.csproj.GenerateResource.cache
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.csproj.CoreCompileInputs.cache
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.exe
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.exe.config
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.exe.manifest
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.application
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.exe
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\BLL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\DAL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\EL.dll
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\BLL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\BLL.dll.config
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\DAL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\DAL.dll.config
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\EL.pdb
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.exe.manifest
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.application
+I:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.csproj.CopyComplete
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.exe.config
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.exe.manifest
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.application
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.exe
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\LabelPrinterDiagramaCapas.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\BLL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\DAL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\EL.dll
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\BLL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\BLL.dll.config
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\DAL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\DAL.dll.config
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\bin\Debug\EL.pdb
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.csprojAssemblyReference.cache
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.Form1.resources
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.Properties.Resources.resources
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.csproj.GenerateResource.cache
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.csproj.CoreCompileInputs.cache
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.exe.manifest
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.application
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.csproj.CopyComplete
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.exe
+D:\visual studio\Visual Studio 2012\Projects\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas\obj\Debug\LabelPrinterDiagramaCapas.pdb

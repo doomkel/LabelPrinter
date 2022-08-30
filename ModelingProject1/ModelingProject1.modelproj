@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9ac9954f-9e8b-4213-a6bc-ab63b2d4cb10}</ProjectGuid>
+    <ArchitectureToolsVersion>2.0.0.0</ArchitectureToolsVersion>
+    <Name>ModelingProject1</Name>
+    <RootNamespace>ModelingProject1</RootNamespace>
+    <ValidateArchitecture>true</ValidateArchitecture>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(VSToolsPath)\ArchitectureTools\Microsoft.VisualStudio.TeamArchitect.ModelingProject.targets" Condition="'$(VSToolsPath)' != ''" />
+  <ItemGroup>
+    <Folder Include="ModelDefinition\" />
+    <Content Include="ModelDefinition\ModelingProject1.uml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Validate Include="LayerDiagram1.layerdiagram">
+      <SubType>Content</SubType>
+    </Validate>
+    <Validate Include="LayerDiagram1.layerdiagram.layout">
+      <SubType>Content</SubType>
+      <DependentUpon>LayerDiagram1.layerdiagram</DependentUpon>
+    </Validate>
+    <Validate Include="LayerDiagram1.layerdiagram.suppressions">
+      <SubType>Content</SubType>
+      <DependentUpon>LayerDiagram1.layerdiagram</DependentUpon>
+    </Validate>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\..\Desktop\pisys\proyectos\GrupoPonan\PISYS_Etiquetas\PISYS_Etiquetas\1.PISYS_Etiquetas.csproj">
+      <Name>1.PISYS_Etiquetas</Name>
+      <Project>{1c6d60e8-3332-4ea5-a248-96bce5173c8d}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\BLL\2.BLL.csproj">
+      <Name>2.BLL</Name>
+      <Project>{9c210650-c108-41e3-8957-ebe59536390a}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\3.DAL.csproj">
+      <Name>3.DAL</Name>
+      <Project>{923ec63a-8e00-4cba-8457-88aa21b7d04f}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\EL\4.EL.csproj">
+      <Name>4.EL</Name>
+      <Project>{f8b23404-2d56-427f-9620-24b9021a4ab6}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\LabelPrinterDiagramaCapas\LabelPrinterDiagramaCapas.csproj">
+      <Name>LabelPrinterDiagramaCapas</Name>
+      <Project>{1572def9-90b4-47ed-8e4f-2744fc76ce16}</Project>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
